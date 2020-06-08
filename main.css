@@ -1,0 +1,58 @@
+*{
+    margin: 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.head{
+    background-color: green;
+    padding: 20px 40px;
+
+}
+.banner{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 20px;
+}
+.text{
+    color: white;
+    font-size: 14px;
+    padding: 5px;
+
+}
+.text1{
+    color: white;
+    font-size: 15px;
+}
+img{
+    padding: 20px;
+}
+.butt{
+    background-color: green;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.butt:hover{
+    background-color: red;
+    color: white;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+.bodytext{
+    color: green;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.text2{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.ano{
+    font-weight: bold;
+    margin: 20px 10px;
+
+}
