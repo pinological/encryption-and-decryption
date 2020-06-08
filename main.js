@@ -127,7 +127,7 @@ function textde(){
         else if(word.charAt(i) == '3'){
             new_word[i] = 'e';
         }
-        else if(word.charAt(i) == 'R'){
+        else if(word.charAt(i) == 'r'){
             new_word[i] = '4';
         }
         else if(word.charAt(i) == '5'){
